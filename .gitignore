@@ -36,9 +36,6 @@ MANIFEST
 # log files
 *.log
 
-# text files
-*.txt
-
 # Some folders
 backup/
 ucf_detections/
