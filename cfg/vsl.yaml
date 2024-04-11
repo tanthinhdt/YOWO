@@ -51,10 +51,10 @@ WEIGHTS:
 BACKUP_DIR: "backup/vsl"
 RNG_SEED: 1
 LISTDATA:
-  BASE_PTH: "/mnt/f/data/vsl/yowo_vsl"
-  TRAIN_FILE: "/mnt/f/data/vsl/yowo_vsl/trainlist.txt"
-  TEST_FILE: "/mnt/f/data/vsl/yowo_vsl/testlist.txt"
-  TEST_VIDEO_FILE: "/mnt/f/data/vsl/yowo_vsl/testlist.txt"
+  BASE_PTH: "data/yowo_vsl"
+  TRAIN_FILE: "data/yowo_vsl/trainlist.txt"
+  TEST_FILE: "data/yowo_vsl/testlist.txt"
+  TEST_VIDEO_FILE: "data/yowo_vsl/testlist.txt"
   MAX_OBJS: 6
   CLASS_NAMES: [
     "Con chó",
